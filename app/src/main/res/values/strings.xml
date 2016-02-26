@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">医药词典</string>
+    <string name="action_yaocai">药材</string>
+    <string name="action_search">查找</string>
+    <string name="action_add">添加</string>
+    <string name="tab_contact">通讯录</string>
+    <string name="tab_found">发现</string>
+    <string name="tab_me">我</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
